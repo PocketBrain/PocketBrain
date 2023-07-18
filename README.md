@@ -31,3 +31,8 @@ Language skills: English - read scientific and technical literature, Upper Inter
 *   Mobile development (FLutter)
 *   TCP/IP, Linux Ubuntu
 *   C/C++
+  <div align="center" style="margin: 40px 0">
+   <a href="https://github.com/PocketBrain/github-profile-views-counter">
+       <img width="175px" src="https://komarev.com/ghpvc/?username=PocketBrain&color=DE002D">
+   </a>
+</div>
