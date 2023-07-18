@@ -1,16 +1,33 @@
-### Hi there 👋
+# Hi, I'm Tim 🍀
+Junior ML Software Engineer. Have excellent knowledge of machine learning and computer vision in python.
+Generally worked with mobile development and PostgreSQL,
+Confident knowledge with algorithms. I am engaged in the development of neural network models for classification, image processing and data analysis.
+Language skills: English - read scientific and technical literature, Upper Intermediate level
 
-<!--
-**PocketBrain/PocketBrain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align='center'>
+   <a>
+       <img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=PocketBrain&layout=compact"/></a>
+</p>
 
-Here are some ideas to get you started:
+<p align='center'>
+   <a href="https://t.me/Pocket_brain">
+       <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
+   </a>
+<p align='center'>
+   📫 How to reach me: <a href='mailto:tim.kirp@mail.ru'>tim.kirp@mail.ru</a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### 🔑 Key points
+*   Received 2 patents on computer vision
+    1) [Segmentation's model](https://github.com/PocketBrain/SegNet_segmentation)
+    2) [Fog removal](https://github.com/PocketBrain/Fog_removal_algorithm)
+*   Finalist and participant in many programming competitions
+ 
+
+## 🛠 Technical Stack
+*   Python/OpenCV/TensorFlow/
+*   MySQL, PostgreSQL, SQLite
+*   Mobile development (FLutter)
+*   TCP/IP, Linux Ubuntu
+*   C/C++
