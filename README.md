@@ -20,7 +20,7 @@ Language skills: English - read scientific and technical literature, Upper Inter
 
 ## 🔑 Key points
 *   Received 2 patents on computer vision
-    1) [Segmentation's model](https://github.com/PocketBrain/SegNet_segmentation)
+    1) [Segmentation's model](https://github.com/PocketBrain/SegNet_segmentation) (https://disk.yandex.ru/i/H4M_ZmSTqHAWtQ)
     2) [Fog removal](https://github.com/PocketBrain/Fog_removal_algorithm) (https://disk.yandex.ru/i/UQZdGaux1Ztwog)
 *   Finalist and participant in many programming competitions
  
