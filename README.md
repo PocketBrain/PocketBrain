@@ -1,5 +1,5 @@
 # Hi, I'm Tim 🍀
-Junior ML Software Engineer. Have excellent knowledge of machine learning and computer vision in python.
+ML Software Engineer. Have excellent knowledge of machine learning and computer vision in python.
 Generally worked with mobile development and PostgreSQL,
 Confident knowledge with algorithms. I'm exploring the development of neural network models for classification, image processing and data analysis.
 Language skills: English - read scientific and technical literature, Upper Intermediate level
@@ -21,7 +21,7 @@ Language skills: English - read scientific and technical literature, Upper Inter
 ## 🔑 Key points
 *   Received 2 patents on computer vision
     1) [Segmentation's model](https://github.com/PocketBrain/SegNet_segmentation)
-    2) [Fog removal](https://github.com/PocketBrain/Fog_removal_algorithm)
+    2) [Fog removal](https://github.com/PocketBrain/Fog_removal_algorithm) (https://disk.yandex.ru/i/UQZdGaux1Ztwog)
 *   Finalist and participant in many programming competitions
  
 
