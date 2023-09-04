@@ -26,7 +26,7 @@ Language skills: English - read scientific and technical literature, Upper Inter
  
 
 ## 🛠 Technical Stack
-*   Python/OpenCV/TensorFlow/
+*   Python/OpenCV/TensorFlow/PyTorch
 *   MySQL, PostgreSQL, SQLite
 *   Mobile development (FLutter)
 *   TCP/IP, Linux Ubuntu
